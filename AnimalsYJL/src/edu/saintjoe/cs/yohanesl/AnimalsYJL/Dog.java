@@ -1,10 +1,10 @@
 package edu.saintjoe.cs.yohanesl.AnimalsYJL;
 
-public class Dog {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
+public class Dog extends Animal {
+	
+		public String makeNoise() {
+			return "Bow-Wow Bow-Wow";
+			
+		}
 
 }
