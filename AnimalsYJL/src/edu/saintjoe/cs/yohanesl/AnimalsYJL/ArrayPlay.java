@@ -13,7 +13,8 @@ public class ArrayPlay {
 		
 		myArray[0] = 8;
 		myArray[1] = 9;
-		 System.out.println("I have stored " + myArray[1] + "at the 1");
+		
+		System.out.println("I have stored " + myArray[1] + "at the 1 array position");
 
 	}
 
